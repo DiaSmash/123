@@ -43,5 +43,7 @@ int main()
 		printf("%f K:\n", kelv);
 		printf("%f C\n", cel);
 		printf("%f F\n", faren);
+	}	
+		
 	}
 	return 0;
